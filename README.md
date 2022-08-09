@@ -50,10 +50,11 @@ Recomendo testar a solução copiando o código acima e colando no DartPad: [Lin
 
 - Tutorial em vídeo de como usar o DartPad: [Link](https://www.youtube.com/watch?v=dkJF_YLFMLs&ab_channel=KamusWarrior).
 
+# Como rodar:
+ 
+Baixe o projeto:
 
-Também pode ser baixado o projeto:
-
-- Tutorial de como baixar arquivos no GitHunb: [Link](https://pt.jugomobile.com/como-baixar-arquivos-do-github/).
+- Tutorial de como baixar arquivos no GitHub: [Link](https://pt.jugomobile.com/como-baixar-arquivos-do-github/).
 - Caso opte por baixar pode ser necessário instalar o Flutter: [Link](https://docs.flutter.dev/get-started/install).
 
 
