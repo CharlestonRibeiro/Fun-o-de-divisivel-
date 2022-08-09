@@ -1,6 +1,8 @@
-# desafio 1 - Seleção de Desenvolvedor de Software
+# desafio 1 - Seleção de Desenvolvedor de Software.
 
-Teste Técnico 01
+Teste Técnico 01.
+
+- Para resolução desse desafio foi escolhido a linguagem Dart.    
 
 Descrição:
 - Implemente uma função que receba um número inteiro positivo e retorne o
@@ -44,15 +46,15 @@ dos números 3, 5, 6, 9 e 10 que são menores que 11.
 
 # Como Testar:
 
-Recomendo para teste copiar o codigo acima e colar no DartPad: [Link](https://dartpad.dev/?)  
+Recomendo testar a solução copiando o código acima e colando no DartPad: [Link](https://dartpad.dev/?).  
 
-- Tutorial em video de como usar o DartPad [Link](https://www.youtube.com/watch?v=dkJF_YLFMLs&ab_channel=KamusWarrior)
+- Tutorial em vídeo de como usar o DartPad: [Link](https://www.youtube.com/watch?v=dkJF_YLFMLs&ab_channel=KamusWarrior).
 
 
 Também pode ser baixado o projeto:
 
- - tutorial de como baixar arquivos no GitHunb: [Link](https://pt.jugomobile.com/como-baixar-arquivos-do-github/)
- - caso opte por baixar pode ser necessario instalar o [Flutter](https://pt.jugomobile.com/como-baixar-arquivos-do-github/)
+- Tutorial de como baixar arquivos no GitHunb: [Link](https://pt.jugomobile.com/como-baixar-arquivos-do-github/).
+- Caso opte por baixar pode ser necessário instalar o Flutter: [Link](https://docs.flutter.dev/get-started/install).
 
 
 
